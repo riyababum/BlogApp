@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,500;1,700;1,900&display=swap');
+
+.blog{
+    font-family: 'Roboto', sans-serif;
+}
+
+#blog-header{
+    color:rgb(0, 0, 0);
+    text-align: center;  
+    margin: 50px 0;
+}
+#my-blog{
+    font-style: italic;
+}
+#blog-body{
+    margin: 0 300px;
+    font-size: large;
+    line-height: 30px;
+    text-align: justify;
+}

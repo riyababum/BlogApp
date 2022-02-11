@@ -1,0 +1,51 @@
+#articles{
+    color:rgb(0, 0, 0);
+    text-align: center;  
+    margin: 50px 0;
+}
+#body{
+    text-decoration: none;
+    color: black;
+}
+#body hr{
+    margin: 0px 300px;
+}
+#list{
+    text-align: left;
+    margin: 0px 300px;
+}
+#list-body{
+    font-size: large;
+    line-height: 30px;
+    text-align: justify;
+    margin: 0px 300px;
+}
+#article-title{
+    color:rgb(0, 0, 0);
+    text-align: center;  
+    margin: 50px 0;
+}
+#article-body{
+    margin: 0 300px;
+    font-size: large;
+    line-height: 30px;
+    text-align: justify;
+}
+#buttons{
+    padding-left: 43.5%;
+}
+#editbtn  , #delete{
+    border: none;
+    padding: 10px ;
+    background-color: rgb(238, 164, 66);
+    font-size: 18px;
+    text-align: center;
+    margin: 0 10px;
+    width: 80px;
+    border-radius: 10px;
+}
+#editbtn:hover , #delete:hover{
+    border: 1px solid rgb(238, 164, 66);
+    background-color: whitesmoke;
+    cursor: pointer;
+}
